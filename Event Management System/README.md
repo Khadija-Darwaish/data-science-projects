@@ -1,0 +1,1 @@
+A PostgreSQL-based Event Management System developed as a final project for Database Development (4th Semester). It includes ERD design, tables, views, stored procedures, triggers, and insights into event operations.
